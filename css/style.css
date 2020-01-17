@@ -1,0 +1,7 @@
+td.details-control:after {
+    content: "Expand";
+    cursor: pointer;
+}
+tr.details td.details-control:after {
+    content: "Close";
+}}
